@@ -1,7 +1,5 @@
-# Hello World!, I'm Ronny Trommer and a full time contributor in the OpenNMS project. 👋
+# Hello World! 👋
 
-### Projects I'm contributing:
-- [OpenNMS](https://www.opennms.com/) - Open Source network monitoring system
+I'm Ronny Trommer and a full time contributor in the OpenNMS project.
 
-[![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigo423)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigo423)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
