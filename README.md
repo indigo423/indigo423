@@ -8,4 +8,4 @@ I'm Ronny Trommer and a full time contributor in the OpenNMS project.
 [![Website](https://img.shields.io/badge/Website-blog.no42.org-informational?style=flat-square&logo=jekyll&logoColor=white)](https://blog.no42.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronnytrommer-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronnytrommer/)
 [![Mattermost](https://img.shields.io/badge/Mattermost-%40indigo423-informational?style=flat-square&logo=mattermost&logoColor=white)](https://chat.opennms.com)
-[![Research Gate](https://img.shields.io/badge/ResearchGate-Ronny%20Trommer-informational?style=flat-square&logo=researchgate&logoColor=white))](https://www.researchgate.net/profile/Ronny-Trommer)
+[![Research Gate](https://img.shields.io/badge/ResearchGate-Ronny%20Trommer-informational?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ronny-Trommer)
