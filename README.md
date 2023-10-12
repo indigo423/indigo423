@@ -11,3 +11,5 @@ I'm Ronny Trommer and a full time contributor in the OpenNMS project.
 [![Mattermost](https://img.shields.io/badge/Mattermost-%40indigo423-informational?style=flat-square&logo=mattermost&logoColor=white)](https://chat.opennms.com)
 [![Research Gate](https://img.shields.io/badge/ResearchGate-Ronny%20Trommer-informational?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ronny-Trommer)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/labmonkeys-charts)](https://artifacthub.io/packages/search?repo=labmonkeys-charts)
+
+[![An image of @indigo423's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indigo423)](https://holopin.io/@indigo423)
